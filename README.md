@@ -1,0 +1,2 @@
+# starplus
+automatic placement
